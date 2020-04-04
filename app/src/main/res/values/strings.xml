@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NCovid19</string>
+    <string name="text1">
+    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/infection-prevention-and-control">Infection, protection and control</a>
+</string>
+    <string name="text2">
+    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/guidance-for-schools-workplaces-institutions">Guidance for schools, workplaces and institutions</a>
+</string>
+
+    <string name="text3">
+    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/points-of-entry-and-mass-gatherings">Points of entry and mass gatherings</a>
+</string>
+    <string name="text4">
+    <a href="https://www.who.int/health-topics/coronavirus/who-recommendations-to-reduce-risk-of-transmission-of-emerging-pathogens-from-animals-to-humans-in-live-animal-markets">Reduction of transmission from animals to humans</a>
+</string>
+
+</resources>

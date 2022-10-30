@@ -16,7 +16,7 @@ I understood how much it takes to make an app and I respect all the Android App 
    2)  Java
 
 ## Demo
-
+![Screenshot](Screenshot_of_App.png)
 A small demo of the Android App: https://youtube.com/shorts/bJxuAk8MkBY
 
 
